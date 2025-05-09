@@ -1,7 +1,7 @@
 
 
 
-Stock control supervisors
+
 # BYBIT.-EXCHANGE
 Stock Control Supervisor . Romeo Rosete . Owner
 ![kv-2c8dd26a0e94d0ab3cbf0c7333cb4f0c](https://github.com/user-attachments/assets/5729e3e8-07b2-45b7-81b9-4c8a79be1f7e)
